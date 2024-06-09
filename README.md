@@ -7,3 +7,4 @@
 | Contact: egg.cafe.real@gmail.com  
 | Website: egg.cafe (Work in progress)  
 | I have been told I am a quite silly indivual.  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1015049434607927306)](https://discord.com/users/1015049434607927306)
