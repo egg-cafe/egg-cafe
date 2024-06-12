@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"**Egg-Man-Real/Egg-Man-Real** is a ✨ _special_ ✨ repository" See I always knew I was special.
+"**egg-cafe/egg-cafe** is a ✨ _special_ ✨ repository" See I always knew I was special.
 
 | I’m currently working on nothing specific.  
 | Call me a student because I’m currently learning Java in AP Computer Science A.  
